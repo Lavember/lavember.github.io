@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+    color:#fcfcfc;
+    font-family: Courier New, Courier, monospace;
+    margin: 0;
+}
+
+.puzzle-data{
+    width: 99%;
+    padding: 1%;
+    border-bottom-color: #23e800;
+    border-bottom-style: dashed;
+    border-bottom-width: 2px;
+    vertical-align: middle;
+}
+
+.puzzle-data b{
+    font-size: 35px;
+}
+
+.puzzle{
+    margin:2%;
+    border-style: solid;
+    border-width: 2px;
+    border-bottom-color: whitesmoke;
+    padding: 20px;
+}
+
+.puzzle .quote{
+    background-color: #4a4a4a;
+        border-style: solid;
+    border-width: 4px;
+    border-color: #787878;
+    border-radius: 1%;
+    font-family: monospace;
+    padding: 6px;
+}
